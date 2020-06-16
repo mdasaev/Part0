@@ -1,4 +1,4 @@
 # Part0
 
-Pics for we sequences
+Pics for web sequences
  
